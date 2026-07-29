@@ -4,7 +4,7 @@ import { getEconomyData, setEconomyData } from '../../utils/economy.js';
 import { withErrorHandling, createError, ErrorTypes } from '../../utils/errorHandler.js';
 import { InteractionHelper } from '../../utils/interactionHelper.js';
 
-const MINE_COOLDOWN = 1 * 10 * 1000;
+const MINE_COOLDOWN = 1 * 5 * 1000;
 const BASE_MIN_REWARD = 1;
 const BASE_MAX_REWARD = 1200;
 const PICKAXE_MULTIPLIER = 1.2;
