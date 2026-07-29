@@ -16,6 +16,11 @@ const MINE_LOCATIONS = [
     "backyard rock quarry",
     "volcanic obsidian vent",
     "deep-sea mineral trench",
+    "normal cave",
+    "beach",
+    "minecraft cave",
+    "valley",
+    "cave in the netherlands"
 ];
 
 export default {
