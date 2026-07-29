@@ -114,7 +114,7 @@ roleId: null,
     {
         id: 'bank_note',
         name: '📜 Bank Note',
-        price: 25000,
+        price: 2500,
         description: 'Increases bank capacity by 10,000. Can be purchased multiple times.',
         type: 'tool',
         durability: null,
