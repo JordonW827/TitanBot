@@ -20,7 +20,8 @@ const MINE_LOCATIONS = [
     "beach",
     "minecraft cave",
     "valley",
-    "cave in the netherlands"
+    "cave in the netherlands",
+    "Alexi's goon cave"
 ];
 
 export default {
